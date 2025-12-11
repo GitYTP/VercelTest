@@ -29,6 +29,7 @@ function App() {
         Click on the Vite and React logos to learn more
       </p>
       <button className='bg-red-500 text-black p-4 '>Click the button</button>
+      <button className='bg-red-500 text-black p-4 '>Click other button</button>
     </>
   )
 }
